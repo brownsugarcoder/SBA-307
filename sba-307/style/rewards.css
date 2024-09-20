@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(168, 214, 243);
+    
+}
+
+#navbar{
+    background-color: black;
+
+}
+.navbar-nav{
+    margin-left: 500px;
+    font-size: 15px;
+}
+
+.nav-item .nav-link {
+    color:rgb(241, 234, 239);
+    font-weight:bold;
+    transition: 0.5s ease;
+
+}
+.nav-item .nav-link:hover{
+    color:blueviolet;
+    text-shadow: 1px 1px rgb(243, 242, 242);
+}
+
+.navbar-brand{
+    color: aliceblue;
+}
